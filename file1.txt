@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 blue
 orange
 green
+=======
+password
+>>>>>>> e74404f (Update file1)
