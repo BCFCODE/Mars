@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 blue
 orange
 green
@@ -9,3 +10,6 @@ password
 =======
 hello
 >>>>>>> e50f8ba (Write hello to file1)
+=======
+world
+>>>>>>> 53b2cee (Write world to file1)
