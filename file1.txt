@@ -4,3 +4,5 @@ anotherLine
 Hi
 orange
 orange
+red
+pink
