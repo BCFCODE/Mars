@@ -7,3 +7,4 @@ orange
 red
 pink
 green
+blue
