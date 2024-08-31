@@ -8,3 +8,4 @@ red
 pink
 green
 blue
+orange
