@@ -1,12 +1,3 @@
-hello
-anotherLine
-
-Hi
-orange
-orange
-red
-pink
-green
 blue
 orange
 green
