@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 blue
 orange
 green
-=======
+
 password
->>>>>>> e74404f (Update file1)
-=======
+
 hello
->>>>>>> e50f8ba (Write hello to file1)
-=======
+
 world
->>>>>>> 53b2cee (Write world to file1)
+update s
+new line
+orange
